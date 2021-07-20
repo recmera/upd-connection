@@ -14,4 +14,5 @@ El cliente envia una nueva letra unicamente si recibe el ACK del paquete anterio
 
 # Método de ejecución
 $ python servidor.py
+
 $ python cliente.py nombre
